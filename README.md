@@ -1,6 +1,6 @@
 # Agri AI System
 
-A Flask-based web application for crop yield prediction and plant disease detection.
+A Flask-based web application for crop yield prediction and plant disease detection
 
 ## Features
 
